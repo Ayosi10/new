@@ -8,7 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 If someone wanted to use my code.
 ### Prerequisites
 What things you need to install the software and how to install them.
+
 To use my code you will need to install:
+
 Git Bash
 How to install: https://www.sitereq.com/post/easiest-way-to-install-git-bash-commands-on-windows
 
