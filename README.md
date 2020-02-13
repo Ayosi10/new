@@ -23,11 +23,14 @@ Google Cloud Platform
 
 ### Installing
 1. Set up the google cloud instance.
+
 2. Pull the repository from githb and the commands that go with.
 Commands are :
 Git init.
 Git pull https://github.com/Ayosi10/new.git
+
 3.Open the repository into your IDE (I RECOMEND USING ECLIPSE).
+
 4.Change all database connections within the code to their own database ip, these are located within the classes ims and all DaomySQL.
 
 Now you will want to run your code in Eclipse.
