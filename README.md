@@ -10,13 +10,17 @@ If someone wanted to use my code.
 What things you need to install the software and how to install them.
 To use my code you will need to install:
 Git Bash
+
 Eclipse
+
 Java
+
 Maven
+
 mySQL
+
 Google Cloud Platform
-Give examples
-``
+
 ### Installing
 1. Set up the google cloud instance.
 2. Pull the repository from githb and the commands that go with.
@@ -55,6 +59,7 @@ This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md
    ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 ## Acknowledgments
 * Blake Ezechi
+
 *Nathan Farnell
 * Inspiration
 * etc
