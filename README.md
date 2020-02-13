@@ -59,7 +59,6 @@ This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md
    ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 ## Acknowledgments
 * Blake Ezechi
-
-*Nathan Farnell
+* Nathan Farnell
 * Inspiration
 * etc
