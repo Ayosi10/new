@@ -31,11 +31,17 @@ Git pull https://github.com/Ayosi10/new.git
 4.Change all database connections within the code to their own database ip, these are located within the classes ims and all DaomySQL.
 
 Now you will want to run your code in Eclipse.
+
 1.Click run or  click Ctrl F11.
+
 2.The console will now open up  and you will need to type in the username and password of your own SQL database.
+
 3.Once you have typed in your password you will see a bunch of table names.
+
 4.If you type in a table name it will return a bunch of commands.
+
 5.These commands will allow you to perform a specific function depending on what they are meant to do.
+
 6.For example if you type in READ, it will return all the information in that table into your Java Console.
 
 ## Running the tests
