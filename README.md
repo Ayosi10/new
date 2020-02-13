@@ -1,12 +1,14 @@
-# new
 # Inventory Management System
+
 We are creating an inventory management system that will be linked with my sql database. It will be albe to read, create, update and delete into the databse I created.
 ## Getting Started
+
 Create a mySQL instance in Google Cloud Platform
 Pull the code to my eclipse using git bash, then change the ip addresses of the of the mysql databses to your own databases ip inside Java.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 If someone wanted to use my code.
 ### Prerequisites
+
 What things you need to install the software and how to install them.
 
 To use my code you will need to install:
@@ -30,11 +32,15 @@ Google Cloud Platform
 How to install: https://cloud.google.com/sql/docs/sqlserver/quickstart
 
 ### Installing
+
 1. Set up the google cloud instance.
 
 2. Pull the repository from githb and the commands that go with.
+
 Commands are :
+
 Git init.
+
 Git pull https://github.com/Ayosi10/new.git
 
 3.Open the repository into your IDE (I RECOMEND USING ECLIPSE).
