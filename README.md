@@ -10,16 +10,22 @@ If someone wanted to use my code.
 What things you need to install the software and how to install them.
 To use my code you will need to install:
 Git Bash
+How to install: https://www.sitereq.com/post/easiest-way-to-install-git-bash-commands-on-windows
 
 Eclipse
+How to install: https://www3.ntu.edu.sg/home/ehchua/programming/howto/EclipseJava_HowTo.html
 
 Java
+How to install: https://java.com/en/download/help/download_options.xml
 
 Maven
+How to install: https://howtodoinjava.com/maven/how-to-install-maven-on-windows/
 
 mySQL
+How to install: https://dev.mysql.com/doc/mysql-installation-excerpt/8.0/en/windows-install-archive.html
 
 Google Cloud Platform
+How to install: https://cloud.google.com/sql/docs/sqlserver/quickstart
 
 ### Installing
 1. Set up the google cloud instance.
